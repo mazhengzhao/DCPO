@@ -9,7 +9,7 @@ The code has been successfully tested on **8 × 80GB A100 GPUs** with **CUDA 12.
 To create a Conda environment, run the following commands:
 
 ```bash
-git clone DCPO
+git clone https://github.com/mazhengzhao/DCPO.git
 cd DCPO
 conda env create -f environment.yml
 ```
